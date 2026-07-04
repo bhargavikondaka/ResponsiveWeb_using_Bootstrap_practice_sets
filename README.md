@@ -44,10 +44,10 @@ The main goal of this repository is to improve my understanding of:
 ```
 ResponsiveWeb_using_Bootstrap_practice_sets/
 │
-├── Practice Set 1
-├── Practice Set 2
-├── Practice Set 3
-├── Practice Set 4
+├── ....
+├── ... Set 2
+├── ... Set 3
+├── ... Set 4
 ├── ...
 └── README.md
 ```
