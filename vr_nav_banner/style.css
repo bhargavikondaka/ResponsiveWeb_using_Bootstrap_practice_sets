@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+img {
+    height: 35px;
+    width: 50px;
+}
+
+.background {
+    background-image: url("https://images.openai.com/static-rsc-4/xMUsdwAabr4B1JWB_kirOj5qQMrsQawk3VjYfPylcCel3HeRuX5aGWpanZAjsjmYV_p3JZxEoDQ8KVYo5CK7eARZSLXW6Lj5AJHHYuNXJDjdUfuB6LIpwVmUMeI2KMZ5ysH7RCQeexhoGo15WK-jCm95kWl7JCD67gab6-KIO7PV3FPnVKQ44hC9juryj2aY?purpose=fullsize");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.vr-heading {
+    font-size: 7vh;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: white;
+}
+
+.button {
+    height: 7vh;
+    width: 20vh;
+    background-size: cover;
+    font-size: 10px;
+}
