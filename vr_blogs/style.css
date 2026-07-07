@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.trending-blogs-bg {
+    background-color: white;
+    background-size: cover;
+}
+
+.trending-blogs-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.trending-blogs-card {
+    background-color: white;
+}
+
+.blog-image {
+    width: 100%;
+}
+
+.blog-name {
+    color: #959ead;
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.blog-description {
+    color: #323f4b;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.read-more-link {
+    color: #1754a1;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.view-button {
+    background-color: #1754a1;
+}
