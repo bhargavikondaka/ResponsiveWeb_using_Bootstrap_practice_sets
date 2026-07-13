@@ -1,1 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
+.Ecommerce-Website-Explore-Section {
+    background-color: #f5f7fa;
+    background-size: cover;
+
+}
+
+.Ecommerce-Website-Explore-Section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.ecommerce-explore-img {
+    width: 70%;
+    border-radius: 19px;
+    margin: 10px;
+}
+
+.gadgets-section {
+    background-size: cover;
+    background-color: white;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.gadgets-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+}
+
+.gadget-name {
+    color: #1f2933;
+    font-size: 16px;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.details-link {
+    color: #ff9f00;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.tv-img {
+    width: 100%;
+    border-radius: 9px;
+}
